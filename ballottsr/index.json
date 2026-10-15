@@ -2,6 +2,26 @@
   "subreddit": "thespinroom",
   "polls": [
     {
+      "id": "poll_t3_1x6wjd2_1792095869473",
+      "title": "Class 2 Poll",
+      "status": "open",
+      "createdAt": 1792095869473,
+      "method": "rcv",
+      "isOfficialElection": false,
+      "resultsEmbargoed": false,
+      "file": "polls/poll_t3_1x6wjd2_1792095869473.json"
+    },
+    {
+      "id": "poll_t3_1x6whop_1792095771387",
+      "title": "Class 1 Poll",
+      "status": "open",
+      "createdAt": 1792095771387,
+      "method": "rcv",
+      "isOfficialElection": false,
+      "resultsEmbargoed": false,
+      "file": "polls/poll_t3_1x6whop_1792095771387.json"
+    },
+    {
       "id": "poll_t3_1wyotwt_1791246522911",
       "title": "Hypothetical Class 1 Poll",
       "status": "open",
