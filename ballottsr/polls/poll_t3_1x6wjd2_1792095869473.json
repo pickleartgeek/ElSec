@@ -35,18 +35,18 @@
   "resultsEmbargoed": false,
   "tally": {
     "method": "rcv",
-    "totalBallots": 3,
+    "totalBallots": 4,
     "finalPct": {
-      "opt_0_1tlap3": 33.33333333333333,
+      "opt_0_1tlap3": 50,
       "opt_1_ogsjt3": 0,
-      "opt_2_jwrz62": 33.33333333333333,
-      "opt_3_4yb7g1": 33.33333333333333
+      "opt_2_jwrz62": 25,
+      "opt_3_4yb7g1": 25
     },
     "rounds": [
       {
         "round": 1,
         "tallies": {
-          "opt_0_1tlap3": 1,
+          "opt_0_1tlap3": 2,
           "opt_1_ogsjt3": 0,
           "opt_2_jwrz62": 1,
           "opt_3_4yb7g1": 1
@@ -63,23 +63,23 @@
       {
         "round": 2,
         "tallies": {
-          "opt_0_1tlap3": 1,
+          "opt_0_1tlap3": 2,
           "opt_2_jwrz62": 1,
           "opt_3_4yb7g1": 1
         },
-        "eliminated": "opt_0_1tlap3",
+        "eliminated": "opt_2_jwrz62",
         "exhausted": 0,
         "transfers": {
-          "opt_2_jwrz62": 0,
-          "opt_3_4yb7g1": 1
+          "opt_0_1tlap3": 1,
+          "opt_3_4yb7g1": 0
         },
         "transferExhausted": 0
       },
       {
         "round": 3,
         "tallies": {
-          "opt_2_jwrz62": 1,
-          "opt_3_4yb7g1": 2
+          "opt_0_1tlap3": 3,
+          "opt_3_4yb7g1": 1
         },
         "exhausted": 0
       }
@@ -87,11 +87,11 @@
     "totalRounds": 3,
     "rcvTransferMatrix": {
       "opt_0_1tlap3": {
-        "total": 1,
+        "total": 2,
         "to": {
           "opt_1_ogsjt3": 0,
           "opt_2_jwrz62": 0,
-          "opt_3_4yb7g1": 1
+          "opt_3_4yb7g1": 2
         },
         "exhausted": 0
       },
@@ -126,6 +126,7 @@
     "cacheVersion": 2,
     "groupWinners": {
       "5": "opt_2_jwrz62",
+      "6": "opt_0_1tlap3",
       "7": "opt_3_4yb7g1"
     },
     "groupPct": {
@@ -133,6 +134,12 @@
         "opt_0_1tlap3": 50,
         "opt_1_ogsjt3": 0,
         "opt_2_jwrz62": 50,
+        "opt_3_4yb7g1": 0
+      },
+      "6": {
+        "opt_0_1tlap3": 100,
+        "opt_1_ogsjt3": 0,
+        "opt_2_jwrz62": 0,
         "opt_3_4yb7g1": 0
       },
       "7": {
@@ -144,11 +151,13 @@
     },
     "groupBallotCount": {
       "5": 2,
+      "6": 1,
       "7": 1
     },
     "groupRoundLeaders": {
       "1": {
         "5": "opt_0_1tlap3",
+        "6": "opt_0_1tlap3",
         "7": "opt_3_4yb7g1"
       },
       "2": {
