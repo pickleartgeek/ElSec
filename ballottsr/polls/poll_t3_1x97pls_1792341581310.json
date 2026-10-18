@@ -30,19 +30,19 @@
   "resultsEmbargoed": false,
   "tally": {
     "method": "rcv",
-    "totalBallots": 6,
+    "totalBallots": 8,
     "finalPct": {
-      "opt_0_4uwnpw": 66.66666666666666,
-      "opt_1_j2ordc": 33.33333333333333,
-      "opt_2_xvpsym": 0
+      "opt_0_4uwnpw": 62.5,
+      "opt_1_j2ordc": 25,
+      "opt_2_xvpsym": 12.5
     },
     "rounds": [
       {
         "round": 1,
         "tallies": {
-          "opt_0_4uwnpw": 4,
+          "opt_0_4uwnpw": 5,
           "opt_1_j2ordc": 2,
-          "opt_2_xvpsym": 0
+          "opt_2_xvpsym": 1
         },
         "exhausted": 0
       }
@@ -50,10 +50,10 @@
     "totalRounds": 1,
     "rcvTransferMatrix": {
       "opt_0_4uwnpw": {
-        "total": 4,
+        "total": 5,
         "to": {
           "opt_1_j2ordc": 1,
-          "opt_2_xvpsym": 3
+          "opt_2_xvpsym": 4
         },
         "exhausted": 0
       },
@@ -66,10 +66,10 @@
         "exhausted": 0
       },
       "opt_2_xvpsym": {
-        "total": 0,
+        "total": 1,
         "to": {
           "opt_0_4uwnpw": 0,
-          "opt_1_j2ordc": 0
+          "opt_1_j2ordc": 1
         },
         "exhausted": 0
       }
@@ -89,9 +89,9 @@
         "opt_2_xvpsym": 0
       },
       "5": {
-        "opt_0_4uwnpw": 100,
+        "opt_0_4uwnpw": 66.66666666666666,
         "opt_1_j2ordc": 0,
-        "opt_2_xvpsym": 0
+        "opt_2_xvpsym": 33.33333333333333
       },
       "6": {
         "opt_0_4uwnpw": 100,
@@ -111,7 +111,7 @@
     },
     "groupBallotCount": {
       "2": 1,
-      "5": 1,
+      "5": 3,
       "6": 1,
       "7": 1,
       "8": 2
