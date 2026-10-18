@@ -30,11 +30,11 @@
   "resultsEmbargoed": false,
   "tally": {
     "method": "rcv",
-    "totalBallots": 11,
+    "totalBallots": 12,
     "finalPct": {
-      "opt_0_4uwnpw": 45.45454545454545,
-      "opt_1_j2ordc": 36.36363636363637,
-      "opt_2_xvpsym": 18.181818181818183
+      "opt_0_4uwnpw": 41.66666666666667,
+      "opt_1_j2ordc": 33.33333333333333,
+      "opt_2_xvpsym": 25
     },
     "rounds": [
       {
@@ -42,7 +42,7 @@
         "tallies": {
           "opt_0_4uwnpw": 5,
           "opt_1_j2ordc": 4,
-          "opt_2_xvpsym": 2
+          "opt_2_xvpsym": 3
         },
         "eliminated": "opt_2_xvpsym",
         "exhausted": 0,
@@ -50,7 +50,7 @@
           "opt_0_4uwnpw": 0,
           "opt_1_j2ordc": 1
         },
-        "transferExhausted": 1
+        "transferExhausted": 2
       },
       {
         "round": 2,
@@ -59,7 +59,7 @@
           "opt_1_j2ordc": 5
         },
         "eliminated": "opt_0_4uwnpw",
-        "exhausted": 1,
+        "exhausted": 2,
         "transfers": {
           "opt_1_j2ordc": 5
         },
@@ -70,7 +70,7 @@
         "tallies": {
           "opt_1_j2ordc": 10
         },
-        "exhausted": 1
+        "exhausted": 2
       }
     ],
     "totalRounds": 3,
@@ -92,19 +92,19 @@
         "exhausted": 0
       },
       "opt_2_xvpsym": {
-        "total": 2,
+        "total": 3,
         "to": {
           "opt_0_4uwnpw": 0,
           "opt_1_j2ordc": 1
         },
-        "exhausted": 1
+        "exhausted": 2
       }
     },
     "cacheVersion": 2,
     "groupWinners": {
       "2": "opt_1_j2ordc",
       "5": "opt_0_4uwnpw",
-      "6": "opt_0_4uwnpw",
+      "6": "opt_2_xvpsym",
       "7": "opt_0_4uwnpw",
       "8": "opt_1_j2ordc"
     },
@@ -120,9 +120,9 @@
         "opt_2_xvpsym": 40
       },
       "6": {
-        "opt_0_4uwnpw": 100,
+        "opt_0_4uwnpw": 50,
         "opt_1_j2ordc": 0,
-        "opt_2_xvpsym": 0
+        "opt_2_xvpsym": 50
       },
       "7": {
         "opt_0_4uwnpw": 100,
@@ -138,7 +138,7 @@
     "groupBallotCount": {
       "2": 2,
       "5": 5,
-      "6": 1,
+      "6": 2,
       "7": 1,
       "8": 2
     },
@@ -152,9 +152,11 @@
       },
       "2": {
         "5": "opt_0_4uwnpw",
+        "6": "opt_0_4uwnpw",
         "8": "opt_0_4uwnpw"
       },
       "3": {
+        "6": "opt_2_xvpsym",
         "8": "opt_1_j2ordc"
       }
     }
