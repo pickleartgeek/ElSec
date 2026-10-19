@@ -1,0 +1,123 @@
+{
+  "id": "poll_t3_1xa7z10_1792441452986",
+  "title": "Class 2 Poll - RepresentativePolling",
+  "createdBy": "Representative-Fee65",
+  "createdAt": 1792441452986,
+  "permalink": "https://reddit.com/r/thespinroom/comments/t3_1xa7z10",
+  "method": "rcv",
+  "isOfficialElection": false,
+  "status": "open",
+  "votingClosesAt": null,
+  "propositionsOnly": false,
+  "options": [
+    {
+      "id": "opt_0_khdh0c",
+      "name": "Fillipinowonderer2442",
+      "color": "#b71212"
+    },
+    {
+      "id": "opt_1_6oes4x",
+      "name": "Junglejumpersfan",
+      "color": "#32a852"
+    },
+    {
+      "id": "opt_2_lkqall",
+      "name": "MaxFlares",
+      "color": "#991a5a"
+    }
+  ],
+  "propositions": [],
+  "resultsEmbargoed": false,
+  "tally": {
+    "method": "rcv",
+    "totalBallots": 5,
+    "finalPct": {
+      "opt_0_khdh0c": 60,
+      "opt_1_6oes4x": 20,
+      "opt_2_lkqall": 20
+    },
+    "rounds": [
+      {
+        "round": 1,
+        "tallies": {
+          "opt_0_khdh0c": 3,
+          "opt_1_6oes4x": 1,
+          "opt_2_lkqall": 1
+        },
+        "exhausted": 0
+      }
+    ],
+    "totalRounds": 1,
+    "rcvTransferMatrix": {
+      "opt_0_khdh0c": {
+        "total": 3,
+        "to": {
+          "opt_1_6oes4x": 2,
+          "opt_2_lkqall": 1
+        },
+        "exhausted": 0
+      },
+      "opt_1_6oes4x": {
+        "total": 1,
+        "to": {
+          "opt_0_khdh0c": 0,
+          "opt_2_lkqall": 1
+        },
+        "exhausted": 0
+      },
+      "opt_2_lkqall": {
+        "total": 1,
+        "to": {
+          "opt_0_khdh0c": 1,
+          "opt_1_6oes4x": 0
+        },
+        "exhausted": 0
+      }
+    },
+    "cacheVersion": 2,
+    "groupWinners": {
+      "3": "opt_0_khdh0c",
+      "5": "opt_2_lkqall",
+      "6": "opt_1_6oes4x"
+    },
+    "groupPct": {
+      "3": {
+        "opt_0_khdh0c": 100,
+        "opt_1_6oes4x": 0,
+        "opt_2_lkqall": 0
+      },
+      "5": {
+        "opt_0_khdh0c": 50,
+        "opt_1_6oes4x": 0,
+        "opt_2_lkqall": 50
+      },
+      "6": {
+        "opt_0_khdh0c": 50,
+        "opt_1_6oes4x": 50,
+        "opt_2_lkqall": 0
+      }
+    },
+    "groupBallotCount": {
+      "3": 1,
+      "5": 2,
+      "6": 2
+    },
+    "groupRoundLeaders": {
+      "1": {
+        "3": "opt_0_khdh0c",
+        "5": "opt_0_khdh0c",
+        "6": "opt_0_khdh0c"
+      },
+      "2": {
+        "5": "opt_0_khdh0c",
+        "6": "opt_0_khdh0c"
+      },
+      "3": {
+        "5": "opt_2_lkqall",
+        "6": "opt_1_6oes4x"
+      }
+    }
+  },
+  "propositionResults": {},
+  "exitPoll": null
+}
