@@ -1,0 +1,61 @@
+{
+  "id": "poll_t3_1xa7xzl_1792441381072",
+  "title": "Class 1 Poll - RepresentativePolling",
+  "createdBy": "Representative-Fee65",
+  "createdAt": 1792441381072,
+  "permalink": "https://reddit.com/r/thespinroom/comments/t3_1xa7xzl",
+  "method": "fptp",
+  "isOfficialElection": false,
+  "status": "open",
+  "votingClosesAt": null,
+  "propositionsOnly": false,
+  "options": [
+    {
+      "id": "opt_0_cd556j",
+      "name": "One-Community-3753",
+      "color": "#b71212"
+    },
+    {
+      "id": "opt_1_qcls5r",
+      "name": "Disguised_VW_Beetle",
+      "color": "#edce2f"
+    }
+  ],
+  "propositions": [],
+  "resultsEmbargoed": false,
+  "tally": {
+    "method": "fptp",
+    "totalBallots": 4,
+    "finalPct": {
+      "opt_0_cd556j": 75,
+      "opt_1_qcls5r": 25
+    },
+    "cacheVersion": 2,
+    "groupWinners": {
+      "3": "opt_0_cd556j",
+      "5": "opt_0_cd556j",
+      "6": "opt_0_cd556j"
+    },
+    "groupPct": {
+      "3": {
+        "opt_0_cd556j": 100,
+        "opt_1_qcls5r": 0
+      },
+      "5": {
+        "opt_0_cd556j": 100,
+        "opt_1_qcls5r": 0
+      },
+      "6": {
+        "opt_0_cd556j": 50,
+        "opt_1_qcls5r": 50
+      }
+    },
+    "groupBallotCount": {
+      "3": 1,
+      "5": 1,
+      "6": 2
+    }
+  },
+  "propositionResults": {},
+  "exitPoll": null
+}
