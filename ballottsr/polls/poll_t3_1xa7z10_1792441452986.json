@@ -30,35 +30,35 @@
   "resultsEmbargoed": false,
   "tally": {
     "method": "rcv",
-    "totalBallots": 8,
+    "totalBallots": 10,
     "finalPct": {
-      "opt_0_khdh0c": 37.5,
-      "opt_1_6oes4x": 37.5,
-      "opt_2_lkqall": 25
+      "opt_0_khdh0c": 30,
+      "opt_1_6oes4x": 40,
+      "opt_2_lkqall": 30
     },
     "rounds": [
       {
         "round": 1,
         "tallies": {
           "opt_0_khdh0c": 3,
-          "opt_1_6oes4x": 3,
-          "opt_2_lkqall": 2
+          "opt_1_6oes4x": 4,
+          "opt_2_lkqall": 3
         },
-        "eliminated": "opt_2_lkqall",
+        "eliminated": "opt_0_khdh0c",
         "exhausted": 0,
         "transfers": {
-          "opt_0_khdh0c": 1,
-          "opt_1_6oes4x": 0
+          "opt_1_6oes4x": 2,
+          "opt_2_lkqall": 1
         },
-        "transferExhausted": 1
+        "transferExhausted": 0
       },
       {
         "round": 2,
         "tallies": {
-          "opt_0_khdh0c": 4,
-          "opt_1_6oes4x": 3
+          "opt_1_6oes4x": 6,
+          "opt_2_lkqall": 4
         },
-        "exhausted": 1
+        "exhausted": 0
       }
     ],
     "totalRounds": 2,
@@ -72,28 +72,30 @@
         "exhausted": 0
       },
       "opt_1_6oes4x": {
-        "total": 3,
+        "total": 4,
         "to": {
           "opt_0_khdh0c": 1,
-          "opt_2_lkqall": 2
+          "opt_2_lkqall": 3
         },
         "exhausted": 0
       },
       "opt_2_lkqall": {
-        "total": 2,
+        "total": 3,
         "to": {
           "opt_0_khdh0c": 1,
           "opt_1_6oes4x": 0
         },
-        "exhausted": 1
+        "exhausted": 2
       }
     },
     "cacheVersion": 2,
     "groupWinners": {
       "2": "opt_1_6oes4x",
       "3": "opt_2_lkqall",
+      "4": "opt_2_lkqall",
       "5": "opt_1_6oes4x",
-      "6": "opt_1_6oes4x"
+      "6": "opt_1_6oes4x",
+      "7": "opt_1_6oes4x"
     },
     "groupPct": {
       "2": {
@@ -106,6 +108,11 @@
         "opt_1_6oes4x": 0,
         "opt_2_lkqall": 50
       },
+      "4": {
+        "opt_0_khdh0c": 0,
+        "opt_1_6oes4x": 0,
+        "opt_2_lkqall": 100
+      },
       "5": {
         "opt_0_khdh0c": 33.33333333333333,
         "opt_1_6oes4x": 33.33333333333333,
@@ -115,20 +122,29 @@
         "opt_0_khdh0c": 50,
         "opt_1_6oes4x": 50,
         "opt_2_lkqall": 0
+      },
+      "7": {
+        "opt_0_khdh0c": 0,
+        "opt_1_6oes4x": 100,
+        "opt_2_lkqall": 0
       }
     },
     "groupBallotCount": {
       "2": 1,
       "3": 2,
+      "4": 1,
       "5": 3,
-      "6": 2
+      "6": 2,
+      "7": 1
     },
     "groupRoundLeaders": {
       "1": {
         "2": "opt_1_6oes4x",
         "3": "opt_0_khdh0c",
+        "4": "opt_2_lkqall",
         "5": "opt_0_khdh0c",
-        "6": "opt_0_khdh0c"
+        "6": "opt_0_khdh0c",
+        "7": "opt_1_6oes4x"
       },
       "2": {
         "3": "opt_0_khdh0c",
