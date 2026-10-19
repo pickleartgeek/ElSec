@@ -30,17 +30,17 @@
   "resultsEmbargoed": false,
   "tally": {
     "method": "rcv",
-    "totalBallots": 16,
+    "totalBallots": 17,
     "finalPct": {
-      "opt_0_4uwnpw": 37.5,
-      "opt_1_j2ordc": 37.5,
-      "opt_2_xvpsym": 25
+      "opt_0_4uwnpw": 41.17647058823529,
+      "opt_1_j2ordc": 35.294117647058826,
+      "opt_2_xvpsym": 23.52941176470588
     },
     "rounds": [
       {
         "round": 1,
         "tallies": {
-          "opt_0_4uwnpw": 6,
+          "opt_0_4uwnpw": 7,
           "opt_1_j2ordc": 6,
           "opt_2_xvpsym": 4
         },
@@ -55,19 +55,31 @@
       {
         "round": 2,
         "tallies": {
-          "opt_0_4uwnpw": 6,
+          "opt_0_4uwnpw": 7,
           "opt_1_j2ordc": 7
+        },
+        "eliminated": "opt_0_4uwnpw",
+        "exhausted": 3,
+        "transfers": {
+          "opt_1_j2ordc": 7
+        },
+        "transferExhausted": 0
+      },
+      {
+        "round": 3,
+        "tallies": {
+          "opt_1_j2ordc": 14
         },
         "exhausted": 3
       }
     ],
-    "totalRounds": 2,
+    "totalRounds": 3,
     "rcvTransferMatrix": {
       "opt_0_4uwnpw": {
-        "total": 6,
+        "total": 7,
         "to": {
           "opt_1_j2ordc": 2,
-          "opt_2_xvpsym": 4
+          "opt_2_xvpsym": 5
         },
         "exhausted": 0
       },
@@ -93,7 +105,7 @@
       "1": "opt_0_4uwnpw",
       "2": "opt_1_j2ordc",
       "5": "opt_0_4uwnpw",
-      "6": "opt_2_xvpsym",
+      "6": "opt_0_4uwnpw",
       "7": "opt_1_j2ordc",
       "8": "opt_1_j2ordc"
     },
@@ -114,9 +126,9 @@
         "opt_2_xvpsym": 40
       },
       "6": {
-        "opt_0_4uwnpw": 50,
+        "opt_0_4uwnpw": 66.66666666666666,
         "opt_1_j2ordc": 0,
-        "opt_2_xvpsym": 50
+        "opt_2_xvpsym": 33.33333333333333
       },
       "7": {
         "opt_0_4uwnpw": 33.33333333333333,
@@ -133,7 +145,7 @@
       "1": 1,
       "2": 2,
       "5": 5,
-      "6": 2,
+      "6": 3,
       "7": 3,
       "8": 3
     },
@@ -148,11 +160,7 @@
       },
       "2": {
         "5": "opt_0_4uwnpw",
-        "6": "opt_0_4uwnpw",
         "7": "opt_1_j2ordc"
-      },
-      "3": {
-        "6": "opt_2_xvpsym"
       }
     }
   },
