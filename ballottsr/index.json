@@ -2,6 +2,16 @@
   "subreddit": "thespinroom",
   "polls": [
     {
+      "id": "poll_t3_1xa9owf_1792445472930",
+      "title": "Class 1 Polling ~ Rensenware by DDTSR",
+      "status": "open",
+      "createdAt": 1792445472930,
+      "method": "rcv",
+      "isOfficialElection": false,
+      "resultsEmbargoed": false,
+      "file": "polls/poll_t3_1xa9owf_1792445472930.json"
+    },
+    {
       "id": "poll_t3_1xa7z10_1792441452986",
       "title": "Class 2 Poll - RepresentativePolling",
       "status": "open",
