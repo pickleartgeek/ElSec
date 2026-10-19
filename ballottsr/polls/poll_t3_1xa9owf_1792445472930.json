@@ -25,16 +25,16 @@
   "resultsEmbargoed": false,
   "tally": {
     "method": "rcv",
-    "totalBallots": 9,
+    "totalBallots": 10,
     "finalPct": {
-      "opt_0_gq09s1": 66.66666666666666,
-      "opt_1_90ps66": 33.33333333333333
+      "opt_0_gq09s1": 70,
+      "opt_1_90ps66": 30
     },
     "rounds": [
       {
         "round": 1,
         "tallies": {
-          "opt_0_gq09s1": 6,
+          "opt_0_gq09s1": 7,
           "opt_1_90ps66": 3
         },
         "exhausted": 0
@@ -43,9 +43,9 @@
     "totalRounds": 1,
     "rcvTransferMatrix": {
       "opt_0_gq09s1": {
-        "total": 6,
+        "total": 7,
         "to": {
-          "opt_1_90ps66": 1
+          "opt_1_90ps66": 2
         },
         "exhausted": 5
       },
@@ -60,6 +60,7 @@
     "cacheVersion": 2,
     "groupWinners": {
       "2": "opt_1_90ps66",
+      "3": "opt_0_gq09s1",
       "5": "opt_0_gq09s1",
       "6": "opt_1_90ps66",
       "7": "opt_0_gq09s1",
@@ -69,6 +70,10 @@
       "2": {
         "opt_0_gq09s1": 0,
         "opt_1_90ps66": 100
+      },
+      "3": {
+        "opt_0_gq09s1": 100,
+        "opt_1_90ps66": 0
       },
       "5": {
         "opt_0_gq09s1": 100,
@@ -89,6 +94,7 @@
     },
     "groupBallotCount": {
       "2": 1,
+      "3": 1,
       "5": 2,
       "6": 3,
       "7": 2,
@@ -97,6 +103,7 @@
     "groupRoundLeaders": {
       "1": {
         "2": "opt_1_90ps66",
+        "3": "opt_0_gq09s1",
         "5": "opt_0_gq09s1",
         "6": "opt_1_90ps66",
         "7": "opt_0_gq09s1",
