@@ -25,15 +25,16 @@
   "resultsEmbargoed": false,
   "tally": {
     "method": "fptp",
-    "totalBallots": 18,
+    "totalBallots": 19,
     "finalPct": {
-      "opt_0_cjjf95": 50,
-      "opt_1_5lsjer": 50
+      "opt_0_cjjf95": 52.63157894736842,
+      "opt_1_5lsjer": 47.368421052631575
     },
     "cacheVersion": 2,
     "groupWinners": {
       "1": "opt_1_5lsjer",
       "2": "opt_0_cjjf95",
+      "3": "opt_0_cjjf95",
       "4": "opt_1_5lsjer",
       "5": "opt_1_5lsjer",
       "6": "opt_1_5lsjer",
@@ -49,6 +50,10 @@
       "2": {
         "opt_0_cjjf95": 50,
         "opt_1_5lsjer": 50
+      },
+      "3": {
+        "opt_0_cjjf95": 100,
+        "opt_1_5lsjer": 0
       },
       "4": {
         "opt_0_cjjf95": 0,
@@ -78,6 +83,7 @@
     "groupBallotCount": {
       "1": 3,
       "2": 2,
+      "3": 1,
       "4": 1,
       "5": 5,
       "6": 2,
