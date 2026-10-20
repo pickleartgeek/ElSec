@@ -1,0 +1,81 @@
+{
+  "id": "poll_t3_1xav0cq_1792509807616",
+  "title": "Pre Debate Poll Class 1 - Spinner Insights",
+  "createdBy": "JungleJumpersfan",
+  "createdAt": 1792509807616,
+  "permalink": "https://reddit.com/r/thespinroom/comments/t3_1xav0cq",
+  "method": "rcv",
+  "isOfficialElection": false,
+  "status": "open",
+  "votingClosesAt": 1792596207616,
+  "propositionsOnly": false,
+  "options": [
+    {
+      "id": "opt_0_3hrhrl",
+      "name": "One-Community-3753",
+      "color": "#831100"
+    },
+    {
+      "id": "opt_1_za9fxb",
+      "name": "Disguised-VW-Beetle",
+      "color": "#bcc0c2"
+    }
+  ],
+  "propositions": [],
+  "resultsEmbargoed": false,
+  "tally": {
+    "method": "rcv",
+    "totalBallots": 1,
+    "finalPct": {
+      "opt_0_3hrhrl": 100,
+      "opt_1_za9fxb": 0
+    },
+    "rounds": [
+      {
+        "round": 1,
+        "tallies": {
+          "opt_0_3hrhrl": 1,
+          "opt_1_za9fxb": 0
+        },
+        "exhausted": 0
+      }
+    ],
+    "totalRounds": 1,
+    "rcvTransferMatrix": {
+      "opt_0_3hrhrl": {
+        "total": 1,
+        "to": {
+          "opt_1_za9fxb": 1
+        },
+        "exhausted": 0
+      },
+      "opt_1_za9fxb": {
+        "total": 0,
+        "to": {
+          "opt_0_3hrhrl": 0
+        },
+        "exhausted": 0
+      }
+    },
+    "cacheVersion": 2,
+    "groupWinners": {
+      "2": "opt_0_3hrhrl"
+    },
+    "groupPct": {
+      "2": {
+        "opt_0_3hrhrl": 100,
+        "opt_1_za9fxb": 0
+      }
+    },
+    "groupBallotCount": {
+      "2": 1
+    },
+    "groupRoundLeaders": {
+      "1": {
+        "2": "opt_0_3hrhrl"
+      }
+    }
+  },
+  "propositionResults": {},
+  "exitPoll": null
+}
