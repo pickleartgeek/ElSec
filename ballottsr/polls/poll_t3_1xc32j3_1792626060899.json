@@ -1,0 +1,99 @@
+{
+  "id": "poll_t3_1xc32j3_1792626060899",
+  "title": "TSR Analytics - Class 2 Poll",
+  "createdBy": "One-Community-3753",
+  "createdAt": 1792626060899,
+  "permalink": "https://reddit.com/r/thespinroom/comments/t3_1xc32j3",
+  "method": "rcv",
+  "isOfficialElection": false,
+  "status": "open",
+  "votingClosesAt": 1792712460899,
+  "propositionsOnly": false,
+  "options": [
+    {
+      "id": "opt_0_ei3c5y",
+      "name": "Filipinowonderer2442",
+      "color": "#b71212"
+    },
+    {
+      "id": "opt_1_majcl0",
+      "name": "JungleJumpersfan",
+      "color": "#32a852"
+    },
+    {
+      "id": "opt_2_qyhffs",
+      "name": "Max_flares",
+      "color": "#bcc0c2"
+    }
+  ],
+  "propositions": [],
+  "resultsEmbargoed": false,
+  "tally": {
+    "method": "rcv",
+    "totalBallots": 1,
+    "finalPct": {
+      "opt_0_ei3c5y": 0,
+      "opt_1_majcl0": 100,
+      "opt_2_qyhffs": 0
+    },
+    "rounds": [
+      {
+        "round": 1,
+        "tallies": {
+          "opt_0_ei3c5y": 0,
+          "opt_1_majcl0": 1,
+          "opt_2_qyhffs": 0
+        },
+        "exhausted": 0
+      }
+    ],
+    "totalRounds": 1,
+    "rcvTransferMatrix": {
+      "opt_0_ei3c5y": {
+        "total": 0,
+        "to": {
+          "opt_1_majcl0": 0,
+          "opt_2_qyhffs": 0
+        },
+        "exhausted": 0
+      },
+      "opt_1_majcl0": {
+        "total": 1,
+        "to": {
+          "opt_0_ei3c5y": 1,
+          "opt_2_qyhffs": 0
+        },
+        "exhausted": 0
+      },
+      "opt_2_qyhffs": {
+        "total": 0,
+        "to": {
+          "opt_0_ei3c5y": 0,
+          "opt_1_majcl0": 0
+        },
+        "exhausted": 0
+      }
+    },
+    "cacheVersion": 2,
+    "groupWinners": {
+      "7": "opt_1_majcl0"
+    },
+    "groupPct": {
+      "7": {
+        "opt_0_ei3c5y": 0,
+        "opt_1_majcl0": 100,
+        "opt_2_qyhffs": 0
+      }
+    },
+    "groupBallotCount": {
+      "7": 1
+    },
+    "groupRoundLeaders": {
+      "1": {
+        "7": "opt_1_majcl0"
+      }
+    }
+  },
+  "propositionResults": {},
+  "exitPoll": null
+}
