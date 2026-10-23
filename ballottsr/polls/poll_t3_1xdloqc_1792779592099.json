@@ -1,0 +1,55 @@
+{
+  "id": "poll_t3_1xdloqc_1792779592099",
+  "title": "Which party do you trust more to lead government?",
+  "createdBy": "wiptes167",
+  "createdAt": 1792779592099,
+  "permalink": "https://reddit.com/r/thespinroom/comments/t3_1xdloqc",
+  "method": "fptp",
+  "isOfficialElection": false,
+  "status": "open",
+  "votingClosesAt": 1793038792099,
+  "propositionsOnly": false,
+  "options": [
+    {
+      "id": "opt_0_ffzwtx",
+      "name": "Union of the Democratic Center",
+      "color": "#32a852"
+    },
+    {
+      "id": "opt_1_de2xvv",
+      "name": "The Spinner Party",
+      "color": "#b71212"
+    }
+  ],
+  "propositions": [],
+  "resultsEmbargoed": false,
+  "tally": {
+    "method": "fptp",
+    "totalBallots": 2,
+    "finalPct": {
+      "opt_0_ffzwtx": 100,
+      "opt_1_de2xvv": 0
+    },
+    "cacheVersion": 2,
+    "groupWinners": {
+      "2": "opt_0_ffzwtx",
+      "7": "opt_0_ffzwtx"
+    },
+    "groupPct": {
+      "2": {
+        "opt_0_ffzwtx": 100,
+        "opt_1_de2xvv": 0
+      },
+      "7": {
+        "opt_0_ffzwtx": 100,
+        "opt_1_de2xvv": 0
+      }
+    },
+    "groupBallotCount": {
+      "2": 1,
+      "7": 1
+    }
+  },
+  "propositionResults": {},
+  "exitPoll": null
+}
