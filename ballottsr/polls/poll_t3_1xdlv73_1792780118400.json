@@ -1,0 +1,99 @@
+{
+  "id": "poll_t3_1xdlv73_1792780118400",
+  "title": "Which person would you prefer be Prime Minister?",
+  "createdBy": "wiptes167",
+  "createdAt": 1792780118400,
+  "permalink": "https://reddit.com/r/thespinroom/comments/t3_1xdlv73",
+  "method": "rcv",
+  "isOfficialElection": false,
+  "status": "open",
+  "votingClosesAt": 1793039318400,
+  "propositionsOnly": false,
+  "options": [
+    {
+      "id": "opt_0_jyi3ne",
+      "name": "wiptes167 (incumbent)",
+      "color": "#f2a38f"
+    },
+    {
+      "id": "opt_1_ph8808",
+      "name": "A different UDC Member of Mod Council",
+      "color": "#32a852"
+    },
+    {
+      "id": "opt_2_y0j3vz",
+      "name": "A TSP Member of Mod Council",
+      "color": "#b71212"
+    }
+  ],
+  "propositions": [],
+  "resultsEmbargoed": false,
+  "tally": {
+    "method": "rcv",
+    "totalBallots": 1,
+    "finalPct": {
+      "opt_0_jyi3ne": 100,
+      "opt_1_ph8808": 0,
+      "opt_2_y0j3vz": 0
+    },
+    "rounds": [
+      {
+        "round": 1,
+        "tallies": {
+          "opt_0_jyi3ne": 1,
+          "opt_1_ph8808": 0,
+          "opt_2_y0j3vz": 0
+        },
+        "exhausted": 0
+      }
+    ],
+    "totalRounds": 1,
+    "rcvTransferMatrix": {
+      "opt_0_jyi3ne": {
+        "total": 1,
+        "to": {
+          "opt_1_ph8808": 1,
+          "opt_2_y0j3vz": 0
+        },
+        "exhausted": 0
+      },
+      "opt_1_ph8808": {
+        "total": 0,
+        "to": {
+          "opt_0_jyi3ne": 0,
+          "opt_2_y0j3vz": 0
+        },
+        "exhausted": 0
+      },
+      "opt_2_y0j3vz": {
+        "total": 0,
+        "to": {
+          "opt_0_jyi3ne": 0,
+          "opt_1_ph8808": 0
+        },
+        "exhausted": 0
+      }
+    },
+    "cacheVersion": 2,
+    "groupWinners": {
+      "7": "opt_0_jyi3ne"
+    },
+    "groupPct": {
+      "7": {
+        "opt_0_jyi3ne": 100,
+        "opt_1_ph8808": 0,
+        "opt_2_y0j3vz": 0
+      }
+    },
+    "groupBallotCount": {
+      "7": 1
+    },
+    "groupRoundLeaders": {
+      "1": {
+        "7": "opt_0_jyi3ne"
+      }
+    }
+  },
+  "propositionResults": {},
+  "exitPoll": null
+}
