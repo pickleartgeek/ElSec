@@ -2,6 +2,16 @@
   "subreddit": "thespinroom",
   "polls": [
     {
+      "id": "poll_t3_1xdggjc_1792768435389",
+      "title": "Class 1 Official Mod Election + Ballot Propositions",
+      "status": "open",
+      "createdAt": 1792768435389,
+      "method": "fptp",
+      "isOfficialElection": true,
+      "resultsEmbargoed": true,
+      "file": "polls/poll_t3_1xdggjc_1792768435389.json"
+    },
+    {
       "id": "poll_t3_1xct991_1792699597158",
       "title": "RepresentativePolling - Class 2 Poll",
       "status": "open",
