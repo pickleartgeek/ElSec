@@ -40,12 +40,12 @@
   "resultsEmbargoed": false,
   "tally": {
     "method": "fptp",
-    "totalBallots": 12,
+    "totalBallots": 13,
     "finalPct": {
-      "opt_0_0rcdla": 8.333333333333332,
-      "opt_1_rzdl97": 58.333333333333336,
-      "opt_2_1q10mp": 16.666666666666664,
-      "opt_3_lor6bb": 16.666666666666664,
+      "opt_0_0rcdla": 7.6923076923076925,
+      "opt_1_rzdl97": 53.84615384615385,
+      "opt_2_1q10mp": 23.076923076923077,
+      "opt_3_lor6bb": 15.384615384615385,
       "opt_4_5py16o": 0
     },
     "cacheVersion": 2,
@@ -54,7 +54,7 @@
       "5": "opt_1_rzdl97",
       "6": "opt_1_rzdl97",
       "7": "opt_1_rzdl97",
-      "8": "opt_3_lor6bb"
+      "8": "opt_2_1q10mp"
     },
     "groupPct": {
       "4": {
@@ -88,8 +88,8 @@
       "8": {
         "opt_0_0rcdla": 0,
         "opt_1_rzdl97": 0,
-        "opt_2_1q10mp": 0,
-        "opt_3_lor6bb": 100,
+        "opt_2_1q10mp": 50,
+        "opt_3_lor6bb": 50,
         "opt_4_5py16o": 0
       }
     },
@@ -98,7 +98,7 @@
       "5": 4,
       "6": 3,
       "7": 1,
-      "8": 1
+      "8": 2
     }
   },
   "propositionResults": {},
