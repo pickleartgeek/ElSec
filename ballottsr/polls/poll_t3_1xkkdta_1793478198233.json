@@ -40,12 +40,12 @@
   "resultsEmbargoed": false,
   "tally": {
     "method": "fptp",
-    "totalBallots": 15,
+    "totalBallots": 16,
     "finalPct": {
-      "opt_0_0rcdla": 6.666666666666667,
-      "opt_1_rzdl97": 60,
-      "opt_2_1q10mp": 20,
-      "opt_3_lor6bb": 13.333333333333334,
+      "opt_0_0rcdla": 6.25,
+      "opt_1_rzdl97": 62.5,
+      "opt_2_1q10mp": 18.75,
+      "opt_3_lor6bb": 12.5,
       "opt_4_5py16o": 0
     },
     "cacheVersion": 2,
@@ -97,7 +97,7 @@
       "4": 3,
       "5": 5,
       "6": 3,
-      "7": 2,
+      "7": 3,
       "8": 2
     }
   },
