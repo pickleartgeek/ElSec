@@ -14,7 +14,7 @@
     {
       "id": "poll_t3_1xkkdta_1793478198233",
       "title": "Who will polls overestimate?",
-      "status": "open",
+      "status": "closed",
       "createdAt": 1793478198233,
       "method": "fptp",
       "isOfficialElection": false,
