@@ -1,0 +1,79 @@
+{
+  "id": "poll_t3_1xlj5fi_1793579695639",
+  "title": "TSR Party Alignment",
+  "createdBy": "Impressive_Plant4418",
+  "createdAt": 1793579695639,
+  "permalink": "https://reddit.com/r/thespinroom/comments/t3_1xlj5fi",
+  "method": "fptp",
+  "isOfficialElection": false,
+  "status": "open",
+  "votingClosesAt": null,
+  "propositionsOnly": false,
+  "options": [
+    {
+      "id": "opt_0_zka754",
+      "name": "The Spinner Party (TSP)",
+      "color": "#b71212"
+    },
+    {
+      "id": "opt_1_3gwml4",
+      "name": "Union of the Democratic Center",
+      "color": "#32a852"
+    },
+    {
+      "id": "opt_2_2qxq0f",
+      "name": "People's Party of the Spinroom (PPS)",
+      "color": "#edce2f"
+    },
+    {
+      "id": "opt_3_sc7506",
+      "name": "New Democrats of the Spinroom (NDTSR)",
+      "color": "#565b99"
+    },
+    {
+      "id": "opt_4_lc3j7m",
+      "name": "Unaffiliated",
+      "color": "#bcc0c2"
+    }
+  ],
+  "propositions": [],
+  "resultsEmbargoed": false,
+  "tally": {
+    "method": "fptp",
+    "totalBallots": 2,
+    "finalPct": {
+      "opt_0_zka754": 0,
+      "opt_1_3gwml4": 50,
+      "opt_2_2qxq0f": 50,
+      "opt_3_sc7506": 0,
+      "opt_4_lc3j7m": 0
+    },
+    "cacheVersion": 2,
+    "groupWinners": {
+      "2": "opt_2_2qxq0f",
+      "5": "opt_1_3gwml4"
+    },
+    "groupPct": {
+      "2": {
+        "opt_0_zka754": 0,
+        "opt_1_3gwml4": 0,
+        "opt_2_2qxq0f": 100,
+        "opt_3_sc7506": 0,
+        "opt_4_lc3j7m": 0
+      },
+      "5": {
+        "opt_0_zka754": 0,
+        "opt_1_3gwml4": 100,
+        "opt_2_2qxq0f": 0,
+        "opt_3_sc7506": 0,
+        "opt_4_lc3j7m": 0
+      }
+    },
+    "groupBallotCount": {
+      "2": 1,
+      "5": 1
+    }
+  },
+  "propositionResults": {},
+  "exitPoll": null
+}
