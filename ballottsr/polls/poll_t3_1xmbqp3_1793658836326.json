@@ -1,0 +1,99 @@
+{
+  "id": "poll_t3_1xmbqp3_1793658836326",
+  "title": "Way Too Early Class 2 Poll",
+  "createdBy": "Representative-Fee65",
+  "createdAt": 1793658836326,
+  "permalink": "https://reddit.com/r/thespinroom/comments/t3_1xmbqp3",
+  "method": "rcv",
+  "isOfficialElection": false,
+  "status": "open",
+  "votingClosesAt": null,
+  "propositionsOnly": false,
+  "options": [
+    {
+      "id": "opt_0_8n1x4c",
+      "name": "Fillipinowonderer2442",
+      "color": "#b71212"
+    },
+    {
+      "id": "opt_1_pj3sko",
+      "name": "Junglejumpersfan (Incumbent)",
+      "color": "#32a852"
+    },
+    {
+      "id": "opt_2_32fc62",
+      "name": "Disguised_VW_Beetle",
+      "color": "#edce2f"
+    }
+  ],
+  "propositions": [],
+  "resultsEmbargoed": false,
+  "tally": {
+    "method": "rcv",
+    "totalBallots": 1,
+    "finalPct": {
+      "opt_0_8n1x4c": 100,
+      "opt_1_pj3sko": 0,
+      "opt_2_32fc62": 0
+    },
+    "rounds": [
+      {
+        "round": 1,
+        "tallies": {
+          "opt_0_8n1x4c": 1,
+          "opt_1_pj3sko": 0,
+          "opt_2_32fc62": 0
+        },
+        "exhausted": 0
+      }
+    ],
+    "totalRounds": 1,
+    "rcvTransferMatrix": {
+      "opt_0_8n1x4c": {
+        "total": 1,
+        "to": {
+          "opt_1_pj3sko": 0,
+          "opt_2_32fc62": 1
+        },
+        "exhausted": 0
+      },
+      "opt_1_pj3sko": {
+        "total": 0,
+        "to": {
+          "opt_0_8n1x4c": 0,
+          "opt_2_32fc62": 0
+        },
+        "exhausted": 0
+      },
+      "opt_2_32fc62": {
+        "total": 0,
+        "to": {
+          "opt_0_8n1x4c": 0,
+          "opt_1_pj3sko": 0
+        },
+        "exhausted": 0
+      }
+    },
+    "cacheVersion": 2,
+    "groupWinners": {
+      "5": "opt_0_8n1x4c"
+    },
+    "groupPct": {
+      "5": {
+        "opt_0_8n1x4c": 100,
+        "opt_1_pj3sko": 0,
+        "opt_2_32fc62": 0
+      }
+    },
+    "groupBallotCount": {
+      "5": 1
+    },
+    "groupRoundLeaders": {
+      "1": {
+        "5": "opt_0_8n1x4c"
+      }
+    }
+  },
+  "propositionResults": {},
+  "exitPoll": null
+}
