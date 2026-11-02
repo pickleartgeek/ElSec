@@ -40,13 +40,13 @@
   "resultsEmbargoed": false,
   "tally": {
     "method": "fptp",
-    "totalBallots": 9,
+    "totalBallots": 10,
     "finalPct": {
-      "opt_0_zka754": 33.33333333333333,
-      "opt_1_3gwml4": 11.11111111111111,
-      "opt_2_2qxq0f": 22.22222222222222,
-      "opt_3_sc7506": 11.11111111111111,
-      "opt_4_lc3j7m": 22.22222222222222
+      "opt_0_zka754": 30,
+      "opt_1_3gwml4": 20,
+      "opt_2_2qxq0f": 20,
+      "opt_3_sc7506": 10,
+      "opt_4_lc3j7m": 20
     },
     "cacheVersion": 2,
     "groupWinners": {
@@ -55,7 +55,7 @@
       "5": "opt_0_zka754",
       "6": "opt_0_zka754",
       "7": "opt_0_zka754",
-      "8": "opt_4_lc3j7m"
+      "8": "opt_1_3gwml4"
     },
     "groupPct": {
       "1": {
@@ -95,10 +95,10 @@
       },
       "8": {
         "opt_0_zka754": 0,
-        "opt_1_3gwml4": 0,
+        "opt_1_3gwml4": 50,
         "opt_2_2qxq0f": 0,
         "opt_3_sc7506": 0,
-        "opt_4_lc3j7m": 100
+        "opt_4_lc3j7m": 50
       }
     },
     "groupBallotCount": {
@@ -107,7 +107,7 @@
       "5": 3,
       "6": 1,
       "7": 2,
-      "8": 1
+      "8": 2
     }
   },
   "propositionResults": {},
