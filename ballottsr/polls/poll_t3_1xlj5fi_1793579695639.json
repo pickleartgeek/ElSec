@@ -40,19 +40,19 @@
   "resultsEmbargoed": false,
   "tally": {
     "method": "fptp",
-    "totalBallots": 6,
+    "totalBallots": 7,
     "finalPct": {
-      "opt_0_zka754": 16.666666666666664,
-      "opt_1_3gwml4": 16.666666666666664,
-      "opt_2_2qxq0f": 33.33333333333333,
+      "opt_0_zka754": 28.57142857142857,
+      "opt_1_3gwml4": 14.285714285714285,
+      "opt_2_2qxq0f": 28.57142857142857,
       "opt_3_sc7506": 0,
-      "opt_4_lc3j7m": 33.33333333333333
+      "opt_4_lc3j7m": 28.57142857142857
     },
     "cacheVersion": 2,
     "groupWinners": {
       "1": "opt_2_2qxq0f",
       "2": "opt_2_2qxq0f",
-      "5": "opt_1_3gwml4",
+      "5": "opt_0_zka754",
       "7": "opt_0_zka754",
       "8": "opt_4_lc3j7m"
     },
@@ -72,11 +72,11 @@
         "opt_4_lc3j7m": 0
       },
       "5": {
-        "opt_0_zka754": 0,
-        "opt_1_3gwml4": 50,
+        "opt_0_zka754": 33.33333333333333,
+        "opt_1_3gwml4": 33.33333333333333,
         "opt_2_2qxq0f": 0,
         "opt_3_sc7506": 0,
-        "opt_4_lc3j7m": 50
+        "opt_4_lc3j7m": 33.33333333333333
       },
       "7": {
         "opt_0_zka754": 100,
@@ -96,7 +96,7 @@
     "groupBallotCount": {
       "1": 1,
       "2": 1,
-      "5": 2,
+      "5": 3,
       "7": 1,
       "8": 1
     }
