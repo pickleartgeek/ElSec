@@ -25,7 +25,7 @@
   "resultsEmbargoed": false,
   "tally": {
     "method": "fptp",
-    "totalBallots": 5,
+    "totalBallots": 6,
     "finalPct": {
       "opt_0_qpombj": 0,
       "opt_1_pll94e": 100
@@ -51,7 +51,7 @@
       }
     },
     "groupBallotCount": {
-      "5": 2,
+      "5": 3,
       "8": 1,
       "9": 2
     }
