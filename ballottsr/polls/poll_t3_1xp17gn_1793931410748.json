@@ -25,10 +25,10 @@
   "resultsEmbargoed": false,
   "tally": {
     "method": "fptp",
-    "totalBallots": 16,
+    "totalBallots": 18,
     "finalPct": {
-      "opt_0_qpombj": 18.75,
-      "opt_1_pll94e": 81.25
+      "opt_0_qpombj": 16.666666666666664,
+      "opt_1_pll94e": 83.33333333333334
     },
     "cacheVersion": 2,
     "groupWinners": {
@@ -58,8 +58,8 @@
         "opt_1_pll94e": 0
       },
       "7": {
-        "opt_0_qpombj": 33.33333333333333,
-        "opt_1_pll94e": 66.66666666666666
+        "opt_0_qpombj": 25,
+        "opt_1_pll94e": 75
       },
       "8": {
         "opt_0_qpombj": 0,
@@ -72,10 +72,10 @@
     },
     "groupBallotCount": {
       "1": 1,
-      "4": 1,
+      "4": 2,
       "5": 6,
       "6": 2,
-      "7": 3,
+      "7": 4,
       "8": 1,
       "9": 2
     }
