@@ -30,17 +30,17 @@
   "resultsEmbargoed": false,
   "tally": {
     "method": "rcv",
-    "totalBallots": 8,
+    "totalBallots": 9,
     "finalPct": {
-      "opt_0_ffgjxl": 62.5,
-      "opt_1_kko7rx": 25,
-      "opt_2_4rpxky": 12.5
+      "opt_0_ffgjxl": 66.66666666666666,
+      "opt_1_kko7rx": 22.22222222222222,
+      "opt_2_4rpxky": 11.11111111111111
     },
     "rounds": [
       {
         "round": 1,
         "tallies": {
-          "opt_0_ffgjxl": 5,
+          "opt_0_ffgjxl": 6,
           "opt_1_kko7rx": 2,
           "opt_2_4rpxky": 1
         },
@@ -50,9 +50,9 @@
     "totalRounds": 1,
     "rcvTransferMatrix": {
       "opt_0_ffgjxl": {
-        "total": 5,
+        "total": 6,
         "to": {
-          "opt_1_kko7rx": 3,
+          "opt_1_kko7rx": 4,
           "opt_2_4rpxky": 0
         },
         "exhausted": 2
@@ -99,9 +99,9 @@
         "opt_2_4rpxky": 0
       },
       "7": {
-        "opt_0_ffgjxl": 0,
+        "opt_0_ffgjxl": 50,
         "opt_1_kko7rx": 0,
-        "opt_2_4rpxky": 100
+        "opt_2_4rpxky": 50
       },
       "9": {
         "opt_0_ffgjxl": 100,
@@ -113,7 +113,7 @@
       "1": 1,
       "5": 3,
       "6": 1,
-      "7": 1,
+      "7": 2,
       "9": 2
     },
     "groupRoundLeaders": {
@@ -121,8 +121,14 @@
         "1": "opt_1_kko7rx",
         "5": "opt_0_ffgjxl",
         "6": "opt_0_ffgjxl",
-        "7": "opt_2_4rpxky",
+        "7": "opt_0_ffgjxl",
         "9": "opt_0_ffgjxl"
+      },
+      "2": {
+        "7": "opt_0_ffgjxl"
+      },
+      "3": {
+        "7": "opt_2_4rpxky"
       }
     }
   },
