@@ -1,0 +1,106 @@
+{
+  "id": "poll_t3_1xsw00e_1794338596333",
+  "title": "2025 New York City Mock Election",
+  "createdBy": "Representative-Fee65",
+  "createdAt": 1794338596333,
+  "permalink": "https://reddit.com/r/thespinroom/comments/t3_1xsw00e",
+  "method": "fptp",
+  "isOfficialElection": false,
+  "status": "open",
+  "votingClosesAt": null,
+  "propositionsOnly": false,
+  "options": [
+    {
+      "id": "opt_0_fznhax",
+      "name": "Alexandria Ocasio-Cortez (Democratic)",
+      "color": "#0015bc"
+    },
+    {
+      "id": "opt_1_ddr2qv",
+      "name": "Curtis Sliwa (Republican)",
+      "color": "#e9141d"
+    },
+    {
+      "id": "opt_2_nzwdae",
+      "name": "Andrew Cuomo (Fight And Deliver)",
+      "color": "#32a852"
+    },
+    {
+      "id": "opt_3_l38l2q",
+      "name": "Zohran Mamdani (Independent)",
+      "color": "#e4003b"
+    },
+    {
+      "id": "opt_4_32sdrx",
+      "name": "Harvey Epstein (Independent)",
+      "color": "#991a5a"
+    }
+  ],
+  "propositions": [],
+  "resultsEmbargoed": false,
+  "tally": {
+    "method": "fptp",
+    "totalBallots": 8,
+    "finalPct": {
+      "opt_0_fznhax": 25,
+      "opt_1_ddr2qv": 37.5,
+      "opt_2_nzwdae": 12.5,
+      "opt_3_l38l2q": 25,
+      "opt_4_32sdrx": 0
+    },
+    "cacheVersion": 2,
+    "groupWinners": {
+      "2": "opt_3_l38l2q",
+      "5": "opt_1_ddr2qv",
+      "6": "opt_0_fznhax",
+      "7": "opt_1_ddr2qv",
+      "9": "opt_0_fznhax"
+    },
+    "groupPct": {
+      "2": {
+        "opt_0_fznhax": 0,
+        "opt_1_ddr2qv": 0,
+        "opt_2_nzwdae": 0,
+        "opt_3_l38l2q": 100,
+        "opt_4_32sdrx": 0
+      },
+      "5": {
+        "opt_0_fznhax": 0,
+        "opt_1_ddr2qv": 100,
+        "opt_2_nzwdae": 0,
+        "opt_3_l38l2q": 0,
+        "opt_4_32sdrx": 0
+      },
+      "6": {
+        "opt_0_fznhax": 25,
+        "opt_1_ddr2qv": 25,
+        "opt_2_nzwdae": 25,
+        "opt_3_l38l2q": 25,
+        "opt_4_32sdrx": 0
+      },
+      "7": {
+        "opt_0_fznhax": 0,
+        "opt_1_ddr2qv": 100,
+        "opt_2_nzwdae": 0,
+        "opt_3_l38l2q": 0,
+        "opt_4_32sdrx": 0
+      },
+      "9": {
+        "opt_0_fznhax": 100,
+        "opt_1_ddr2qv": 0,
+        "opt_2_nzwdae": 0,
+        "opt_3_l38l2q": 0,
+        "opt_4_32sdrx": 0
+      }
+    },
+    "groupBallotCount": {
+      "2": 1,
+      "5": 1,
+      "6": 4,
+      "7": 1,
+      "9": 1
+    }
+  },
+  "propositionResults": {},
+  "exitPoll": null
+}
