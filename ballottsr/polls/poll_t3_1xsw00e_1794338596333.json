@@ -40,12 +40,12 @@
   "resultsEmbargoed": false,
   "tally": {
     "method": "fptp",
-    "totalBallots": 28,
+    "totalBallots": 31,
     "finalPct": {
-      "opt_0_fznhax": 28.57142857142857,
-      "opt_1_ddr2qv": 32.142857142857146,
-      "opt_2_nzwdae": 7.142857142857142,
-      "opt_3_l38l2q": 32.142857142857146,
+      "opt_0_fznhax": 25.806451612903224,
+      "opt_1_ddr2qv": 29.03225806451613,
+      "opt_2_nzwdae": 9.67741935483871,
+      "opt_3_l38l2q": 35.483870967741936,
       "opt_4_32sdrx": 0
     },
     "cacheVersion": 2,
@@ -84,15 +84,15 @@
       },
       "4": {
         "opt_0_fznhax": 0,
-        "opt_1_ddr2qv": 100,
+        "opt_1_ddr2qv": 66.66666666666666,
         "opt_2_nzwdae": 0,
-        "opt_3_l38l2q": 0,
+        "opt_3_l38l2q": 33.33333333333333,
         "opt_4_32sdrx": 0
       },
       "5": {
-        "opt_0_fznhax": 50,
-        "opt_1_ddr2qv": 25,
-        "opt_2_nzwdae": 25,
+        "opt_0_fznhax": 40,
+        "opt_1_ddr2qv": 20,
+        "opt_2_nzwdae": 40,
         "opt_3_l38l2q": 0,
         "opt_4_32sdrx": 0
       },
@@ -127,10 +127,10 @@
     },
     "groupBallotCount": {
       "1": 2,
-      "2": 3,
+      "2": 4,
       "3": 1,
-      "4": 2,
-      "5": 4,
+      "4": 3,
+      "5": 5,
       "6": 6,
       "7": 4,
       "8": 4,
