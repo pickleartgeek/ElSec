@@ -40,12 +40,12 @@
   "resultsEmbargoed": false,
   "tally": {
     "method": "fptp",
-    "totalBallots": 18,
+    "totalBallots": 22,
     "finalPct": {
-      "opt_0_fznhax": 33.33333333333333,
-      "opt_1_ddr2qv": 27.77777777777778,
-      "opt_2_nzwdae": 5.555555555555555,
-      "opt_3_l38l2q": 33.33333333333333,
+      "opt_0_fznhax": 31.818181818181817,
+      "opt_1_ddr2qv": 31.818181818181817,
+      "opt_2_nzwdae": 4.545454545454546,
+      "opt_3_l38l2q": 31.818181818181817,
       "opt_4_32sdrx": 0
     },
     "cacheVersion": 2,
@@ -55,7 +55,7 @@
       "4": "opt_1_ddr2qv",
       "5": "opt_0_fznhax",
       "6": "opt_0_fznhax",
-      "7": "opt_0_fznhax",
+      "7": "opt_1_ddr2qv",
       "8": "opt_0_fznhax",
       "9": "opt_0_fznhax"
     },
@@ -82,8 +82,8 @@
         "opt_4_32sdrx": 0
       },
       "5": {
-        "opt_0_fznhax": 50,
-        "opt_1_ddr2qv": 50,
+        "opt_0_fznhax": 66.66666666666666,
+        "opt_1_ddr2qv": 33.33333333333333,
         "opt_2_nzwdae": 0,
         "opt_3_l38l2q": 0,
         "opt_4_32sdrx": 0
@@ -96,17 +96,17 @@
         "opt_4_32sdrx": 0
       },
       "7": {
-        "opt_0_fznhax": 50,
-        "opt_1_ddr2qv": 50,
+        "opt_0_fznhax": 25,
+        "opt_1_ddr2qv": 75,
         "opt_2_nzwdae": 0,
         "opt_3_l38l2q": 0,
         "opt_4_32sdrx": 0
       },
       "8": {
-        "opt_0_fznhax": 100,
+        "opt_0_fznhax": 66.66666666666666,
         "opt_1_ddr2qv": 0,
         "opt_2_nzwdae": 0,
-        "opt_3_l38l2q": 0,
+        "opt_3_l38l2q": 33.33333333333333,
         "opt_4_32sdrx": 0
       },
       "9": {
@@ -121,10 +121,10 @@
       "2": 3,
       "3": 1,
       "4": 2,
-      "5": 2,
+      "5": 3,
       "6": 4,
-      "7": 2,
-      "8": 2,
+      "7": 4,
+      "8": 3,
       "9": 2
     }
   },
