@@ -40,13 +40,13 @@
   "resultsEmbargoed": false,
   "tally": {
     "method": "fptp",
-    "totalBallots": 72,
+    "totalBallots": 73,
     "finalPct": {
-      "opt_0_fznhax": 18.055555555555554,
-      "opt_1_ddr2qv": 26.38888888888889,
-      "opt_2_nzwdae": 5.555555555555555,
-      "opt_3_l38l2q": 41.66666666666667,
-      "opt_4_32sdrx": 8.333333333333332
+      "opt_0_fznhax": 19.17808219178082,
+      "opt_1_ddr2qv": 26.027397260273972,
+      "opt_2_nzwdae": 5.47945205479452,
+      "opt_3_l38l2q": 41.0958904109589,
+      "opt_4_32sdrx": 8.21917808219178
     },
     "cacheVersion": 2,
     "groupWinners": {
@@ -62,10 +62,10 @@
     },
     "groupPct": {
       "1": {
-        "opt_0_fznhax": 28.57142857142857,
-        "opt_1_ddr2qv": 28.57142857142857,
-        "opt_2_nzwdae": 14.285714285714285,
-        "opt_3_l38l2q": 28.57142857142857,
+        "opt_0_fznhax": 37.5,
+        "opt_1_ddr2qv": 25,
+        "opt_2_nzwdae": 12.5,
+        "opt_3_l38l2q": 25,
         "opt_4_32sdrx": 0
       },
       "2": {
@@ -126,7 +126,7 @@
       }
     },
     "groupBallotCount": {
-      "1": 7,
+      "1": 8,
       "2": 9,
       "3": 4,
       "4": 12,
